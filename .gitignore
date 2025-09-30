@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+.venv
+env
+
+# VSCode
+.vscode/
+
+# Data and outputs (don’t upload huge CSVs)
+data/*
+outputs/*
+!outputs/.gitkeep
+
+# Models
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+pandas
+requests
+lightgbm
+scikit-learn
+joblib
